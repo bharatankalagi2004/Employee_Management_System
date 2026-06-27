@@ -1,4 +1,5 @@
 🏢 Smart Employee Management System
+
 A backend REST API built with FastAPI for managing employee records, attendance, leave, and payroll — with JWT authentication and SQLite database.
 
 🚀 Features
